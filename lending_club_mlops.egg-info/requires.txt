@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+python-dotenv
+autopep8
+pylint
+mlops
+fastapi
+streamlit
+scikit-learn
